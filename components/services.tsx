@@ -17,7 +17,7 @@ const serviceCategories = [
       "Cálculo de Tabla Nutricional Teórica",
     ],
     icon: FileCheck,
-    image: "/higiénico-sanitario.jpeg",
+    image: "/higienico-sanitario.jpeg",
   },
   {
     number: "02",
