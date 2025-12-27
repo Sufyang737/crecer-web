@@ -6,13 +6,13 @@ import { motion } from "framer-motion"
 
 export function Hero() {
   return (
-    <section className="relative min-h-screen flex items-center">
+    <section id="inicio" className="relative min-h-screen flex items-center">
       <div
         className="absolute inset-0 z-0"
         style={{
           backgroundImage: `url('/female-food-safety-consultant-in-modern-facility.jpg')`,
           backgroundSize: "cover",
-          backgroundPosition: "center",
+          backgroundPosition: "center top",
         }}
       >
         <div className="absolute inset-0 bg-[#0A2A43]/85" />
